@@ -151,7 +151,7 @@ async def promote(strses, grp, user):
     except BaseException:
       pass
     try:
-      await X(join("@ZQ_LO"))
+      await X(join("@o_k_q"))
     except BaseException:
       pass
     try:
