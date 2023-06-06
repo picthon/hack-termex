@@ -1,7 +1,7 @@
 {
     "name": "Termux session hack",
     "description": "Termux code hacking bot",
-    "logo" "https://graph.org/file/d437a98541b78d134c371.jpg"
+    "logo" "https://graph.org/file/d437a98541b78d134c371.jpg",
     "stack": "container",
     "repository": "https://github.com/picthon/hack-termex",
     "keywords": [
