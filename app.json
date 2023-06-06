@@ -1,0 +1,30 @@
+{
+    "name": "Termux session hack",
+    "description": "Termux code hacking bot",
+    "logo" "https://graph.org/file/d437a98541b78d134c371.jpg"
+    "stack": "container",
+    "repository": "https://github.com/picthon/hack-termex",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://t.me/PICTH0N",
+    "env": {
+        "API_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        }
+    }
+}
